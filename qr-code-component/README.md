@@ -46,7 +46,7 @@ Frontend Mentor의 [QR code component solution](https://www.frontendmentor.io/ch
   * flex-direction 정렬방향설정 ex)flex-direction: row-reverse;
   * flex-direction을 사용할 때 reverse를 쓰면 start와 end의 순서도 전환됌
   * order는 flex요소의 순서를 지정함 ex) order: 1 (-1, 0, 1)
-예시
+
 ```css
 body {
   display: flex;
@@ -55,6 +55,7 @@ body {
   flex-direction: column;
   min-height: 100vh;
 }
+//공부한부분 예시
 ```
 
 - vh
