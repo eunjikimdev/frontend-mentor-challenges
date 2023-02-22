@@ -5,36 +5,36 @@ Frontend Mentor의 [QR code component solution](https://www.frontendmentor.io/ch
 
 ## 목차
 
-- [개요](#overview)
-  - [스크린샷](#screenshot)
-  - [링크](#links)
-- [나의 진행과정](#my-process)
-  - [구축 대상](#built-with)
-  - [내가 배운 것](#what-i-learned)
-  - [지속적으로 개발,공부 할 부분](#continued-development)
-  - [유용하게 사용한 리소스](#useful-resources)
-- [작성자](#author)
+- [개요](#개요)
+  - [스크린샷](#스크린샷)
+  - [링크](#링크)
+- [진행과정](#진행과정)
+  - [구축 대상](#구축 대상)
+  - [내가 배운 것](#내가 배운 것)
+  - [지속적으로 공부 할 부분](#지속적으로 공부 할 부분)
+  - [유용한 리소스](#유용한 리소스)
+- [작성자](#작성자)
 
-## Overview
+## 개요
 
-### Screenshot
+### 스크린샷
 
 ![screenshot](https://user-images.githubusercontent.com/107173877/220589856-3f967919-ad13-4565-b32c-d71af69f1a74.jpg)
 
-### Links
+### 링크
 
 - Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-vjc-EUAHjo](https://www.frontendmentor.io/solutions/qr-code-component-vjc-EUAHjo)
 - Live Site URL: [https://beamish-concha-5b2de8.netlify.app/](https://beamish-concha-5b2de8.netlify.app/)
 
-## My process
+## 진행과정
 
-### Built with
+### 구축 대상
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 
-### What I learned
+### 내가 배운 것
 
 - display: flex에 대해서 공부했다.
 
@@ -64,19 +64,19 @@ body {
 
 - 접근성문제를 위해 main과 footer를 꼭 사용해야 한다.
 
-### Continued development
+### 지속적으로 공부 할 부분
 
 css의 단위에 대하여 공부해야겠다.  
 px를 주로 사용해서 %, em, rem, vw, vh에 대해서 잘 알지 못했다.  
 이에 대해 공부를 더 해서 반응형에서 잘 적용할 수 있게 하겠다.  
 
-All page content should be contained by landmarks
+All page content should be contained by landmarks 에 대해서도 공부하기.
 
-### Useful resources
+### 유용한 리소스
 
 - [FLEXBOX FROGGY](https://flexboxfroggy.com/#ko) - display:flex에 관한 전반적인 사항을 다시 공부 할 수 있었다.  배운 것을 앞으로도 많이 활용할 것이다.
 
-## Author
+## 작성자
 
 - github - [@eunjikimdev](https://github.com/eunjikimdev)
 - Frontend Mentor - [@eunjikimdev](https://www.frontendmentor.io/profile/eunjikimdev)
