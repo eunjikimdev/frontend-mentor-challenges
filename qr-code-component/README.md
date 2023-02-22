@@ -37,11 +37,11 @@ Frontend Mentor의 [QR code component solution](https://www.frontendmentor.io/ch
 
 - display: flex에 대해서 공부했다.
 
-* justify-content는 수평이동 ex) justify-content: space-between
-* align-items는 수직이동 ex) align-items: flex-end
-* flex-direction 정렬방향설정 ex)flex-direction: row-reverse;
-* flex-direction을 사용할 때 reverse를 쓰면 start와 end의 순서도 전환됌
-* order는 flex요소의 순서를 지정함 ex) order: 1 (-1, 0, 1)
+  * justify-content는 수평이동 ex) justify-content: space-between
+  * align-items는 수직이동 ex) align-items: flex-end
+  * flex-direction 정렬방향설정 ex)flex-direction: row-reverse;
+  * flex-direction을 사용할 때 reverse를 쓰면 start와 end의 순서도 전환됌
+  * order는 flex요소의 순서를 지정함 ex) order: 1 (-1, 0, 1)
 
 ```css
 body {
