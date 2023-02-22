@@ -3,9 +3,7 @@
 Frontend Mentor의 [QR code component solution](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)에 대한 솔루션입니다.  
 프론트엔드 멘토 챌린지는 실제 프로젝트를 만들면서 코딩 실력을 향상시키는 데 도움이 됩니다.
 
-
-
-
+  
 ## 목차
 
 - [개요](#개요)
