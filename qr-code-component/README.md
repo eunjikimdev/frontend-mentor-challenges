@@ -55,7 +55,6 @@ body {
   flex-direction: column;
   min-height: 100vh;
 }
-//공부한부분 예시
 ```
 
 - vh
