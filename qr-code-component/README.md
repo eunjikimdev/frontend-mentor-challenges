@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![screenshot](./images)
+![screenshot](https://user-images.githubusercontent.com/107173877/220589856-3f967919-ad13-4565-b32c-d71af69f1a74.jpg)
 
 ### Links
 
@@ -57,7 +57,7 @@ body {
 
 - 마크다운 문법
 
-* 이미지를 삽입하는 법 `![이미지이름](경로)`
+* 깃허브에 이미지를 삽입하는 법 : issue에 이미지를 업로드한후 그 주소를 사용함.
 * 코드블럭 삽입 ` ```main { width:320px; }``` `
 * 리스트항목 사용할 때 \*나 -를 사용함
 
