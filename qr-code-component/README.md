@@ -1,18 +1,18 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+Frontend Mentor의 [QR code component solution](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)에 대한 솔루션입니다. 프론트엔드 멘토 챌린지는 실제 프로젝트를 만들면서 코딩 실력을 향상시키는 데 도움이 됩니다.
 
 ## 목차
 
 - [개요](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
+  - [스크린샷](#screenshot)
+  - [링크](#links)
+- [나의 진행과정](#my-process)
+  - [구축 대상](#built-with)
+  - [내가 배운 것](#what-i-learned)
+  - [지속적으로 개발,공부 할 부분](#continued-development)
+  - [유용하게 사용한 리소스](#useful-resources)
+- [작성자](#author)
 
 ## Overview
 
