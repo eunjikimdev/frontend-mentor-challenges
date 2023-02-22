@@ -4,6 +4,8 @@ Frontend Mentor의 [QR code component solution](https://www.frontendmentor.io/ch
 프론트엔드 멘토 챌린지는 실제 프로젝트를 만들면서 코딩 실력을 향상시키는 데 도움이 됩니다.
 
 
+
+
 ## 목차
 
 - [개요](#개요)
@@ -17,6 +19,8 @@ Frontend Mentor의 [QR code component solution](https://www.frontendmentor.io/ch
 - [작성자](#작성자)
 
 
+
+
 ## 개요
 
 ### 스크린샷
@@ -27,6 +31,8 @@ Frontend Mentor의 [QR code component solution](https://www.frontendmentor.io/ch
 
 - Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-vjc-EUAHjo](https://www.frontendmentor.io/solutions/qr-code-component-vjc-EUAHjo)
 - Live Site URL: [https://beamish-concha-5b2de8.netlify.app/](https://beamish-concha-5b2de8.netlify.app/)
+
+
 
 
 ## 진행과정
@@ -78,6 +84,8 @@ All page content should be contained by landmarks 에 대해서도 공부하기.
 ### 유용한 리소스
 
 - [FLEXBOX FROGGY](https://flexboxfroggy.com/#ko) - display:flex에 관한 전반적인 사항을 다시 공부 할 수 있었다.  배운 것을 앞으로도 많이 활용할 것이다.
+
+
 
 
 ## 작성자
