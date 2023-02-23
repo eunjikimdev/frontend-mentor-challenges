@@ -15,6 +15,7 @@ Frontend Mentor의 [QR code component solution](https://www.frontendmentor.io/ch
   - [지속적으로 공부 할 부분](#지속적으로-공부-할-부분)
   - [유용한 리소스](#유용한-리소스)
 - [작성자](#작성자)
+- [감사의 말](#감사의-말)
 
 
 ## 개요
@@ -67,6 +68,13 @@ body {
 
 - 접근성문제를 위해 main과 footer를 꼭 사용해야 한다.
 
+- css units
+  - padding, margin, width, height 같은 경우는 em 값을 사용한다.
+  -font size의 경우 rem을 사용하여 값이 변하지 않도록 한다.
+  - 기본 font 값은 16px
+  
+  - 구글 폰트 사용을 위한 @import 규칙
+
 ### 지속적으로 공부 할 부분
 
 css의 단위에 대하여 공부해야겠다.  
@@ -78,9 +86,15 @@ All page content should be contained by landmarks 에 대해서도 공부하기.
 ### 유용한 리소스
 
 - [FLEXBOX FROGGY](https://flexboxfroggy.com/#ko) - display:flex에 관한 전반적인 사항을 다시 공부 할 수 있었다.  배운 것을 앞으로도 많이 활용할 것이다.
+- [프론트엔드 필수 반응형 CSS 단위 총정리 (EM과 REM) | Responsive CSS Units](https://www.youtube.com/watch?v=7Z3t1OWOpHo&t=641s) - css units에 대한 개념을 공부할 수 있습니다.
 
 
 ## 작성자
 
 - github - [@eunjikimdev](https://github.com/eunjikimdev)
 - Frontend Mentor - [@eunjikimdev](https://www.frontendmentor.io/profile/eunjikimdev)
+
+## 감사의 말
+
+I would like to express my gratitude to Francisco Carrillo (@frank-itachi) and Melvin Aguilar (@MelvinAguilar) for their support throughout this project.
+Thank you both for your help.
