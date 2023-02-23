@@ -15,7 +15,7 @@ Frontend Mentor의 [challenges](https://www.frontendmentor.io/challenges)에 대
 
   ### 1단계
 
-- 20230222 ~ 20230222 : [QR code component solution](https://github.com/eunjikimdev/frontend-mentor-challenges/tree/main/qr-code-component) 
+- 20230222 ~ 20230223 : [QR code component solution](https://github.com/eunjikimdev/frontend-mentor-challenges/tree/main/qr-code-component) 
 
 ### 2단계
 
