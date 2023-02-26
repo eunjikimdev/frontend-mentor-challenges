@@ -25,7 +25,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### 링크
 
-- Solution URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/productpreviewcardcomponent-tni85rehoM](https://www.frontendmentor.io/solutions/productpreviewcardcomponent-tni85rehoM)
 - Live Site URL: [https://remarkable-dusk-918ce5.netlify.app/](https://remarkable-dusk-918ce5.netlify.app/)
 
 ## 진행과정
