@@ -1,0 +1,147 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+  color: hsl(228, 12%, 48%);
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  border: none;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(30, 38%, 92%);
+  height: 100vh;
+}
+
+main {
+  display: flex;
+  width: 672px;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.mainImage {
+  display: flex;
+  width: 336px;
+  overflow: hidden;
+}
+
+.desktop {
+  display: block;
+  width: 336px;
+}
+.mobile {
+  display: none;
+  width: 336px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  width: 336px;
+  padding: 48px;
+}
+
+.category {
+  letter-spacing: 6px;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.title {
+  display: flex;
+  font-size: 36px;
+  font-family: "Fraunces", serif;
+  line-height: 38px;
+  color: hsl(212, 21%, 14%);
+  margin-top: 16px;
+}
+
+.explanation {
+  display: flex;
+  font-size: 14px;
+  line-height: 22px;
+  margin-top: 20px;
+}
+
+.cost {
+  display: flex;
+  margin: 28px 0;
+  align-items: center;
+}
+
+.price {
+  font-size: 32px;
+  font-family: "Fraunces", serif;
+  color: hsl(158, 36%, 37%);
+}
+
+.originalPrice {
+  text-decoration: line-through;
+  margin-left: 16px;
+}
+
+.button {
+  display: flex;
+  width: 100%;
+  padding: 20px;
+  background-color: hsl(158, 36%, 37%);
+  border: none;
+  border-radius: 10px;
+  justify-content: center;
+  transition: 0.3s;
+}
+
+.button:hover {
+  background-color: hsl(212, 21%, 14%);
+}
+
+.button_icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button_text {
+  color: hsl(0, 0%, 100%);
+  font-size: 16px;
+  padding-left: 10px;
+}
+
+.attribution {
+  display: flex;
+  font-size: 11px;
+  text-align: center;
+  margin-top: 20px;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+@media screen and (max-width: 692px) {
+  main {
+    flex-direction: column;
+    width: 336px;
+  }
+
+  .desktop {
+    display: none;
+  }
+
+  .mobile {
+    display: block;
+  }
+}
