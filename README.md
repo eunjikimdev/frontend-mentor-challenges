@@ -17,7 +17,7 @@ Frontend Mentor의 [challenges](https://www.frontendmentor.io/challenges)에 대
 
 - 20230222 ~ 20230223 : [QR code component solution](https://github.com/eunjikimdev/frontend-mentor-challenges/tree/main/qr-code-component) 
 - 20230223 ~ 20230225 : [nft preview card component](https://github.com/eunjikimdev/frontend-mentor-challenges/tree/main/nft-preview-card-component)
-- 20230226 ~ 20230226 : [product preview card component]()
+- 20230226 ~ 20230226 : [product preview card component](https://github.com/eunjikimdev/frontend-mentor-challenges/tree/main/product-preview-card-component)
 
 ### 2단계
 
