@@ -42,7 +42,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
   변수 사용하는 법
   var(--속성이름)
 
-  - git commit 작성하기
+  - git commit하기
+  - git commmit 메세지 컨벤션
   - git push 하기
 
 ### 지속적으로 공부 할 부분
