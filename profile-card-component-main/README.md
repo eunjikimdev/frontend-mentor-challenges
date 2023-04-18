@@ -10,7 +10,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - [진행과정](#진행과정)
   - [구축 대상](#구축-대상)
   - [내가 배운 것](#내가-배운-것)
-  - [지속적으로 공부 할 부분](#지속적으로-공부-할-부분)
 - [작성자](#작성자)
 - [감사의 말](#감사의-말)
 
@@ -23,7 +22,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### 링크
 
-- Solution URL: [주소]()
+- Solution URL: [https://www.frontendmentor.io/solutions/profilecardcomponent-rJ9yT6tlmK](https://www.frontendmentor.io/solutions/profilecardcomponent-rJ9yT6tlmK)
 - Live Site URL: [https://inspiring-chebakia-91c972.netlify.app/](https://inspiring-chebakia-91c972.netlify.app/)
 
 ## 진행과정
@@ -42,11 +41,9 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
   변수 사용하는 법
   var(--속성이름)
 
-  - git commit하기
-  - git commmit 메세지 컨벤션
-  - git push 하기
-
-### 지속적으로 공부 할 부분
+- git commit하기
+- git commmit 메세지 컨벤션
+- git push 하기
 
 ## 작성자
 
