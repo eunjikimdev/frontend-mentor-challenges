@@ -26,6 +26,13 @@ h2 {
   overflow-wrap: break-word;
 }
 
+ul,
+li {
+  list-style: none;
+}
+
+/*reset END*/
+
 body {
   display: flex;
   font-size: 13px;
@@ -124,6 +131,8 @@ main {
   border-radius: 50%;
   background-color: var(--Light-Grayish-Blue);
   overflow: hidden;
+  border: none;
+  cursor: pointer;
 }
 
 .share img {
@@ -152,4 +161,43 @@ main {
     width: 23.077em;
     padding: 2.077em;
   }
+}
+
+.snsShare {
+  display: flex;
+  visibility: hidden;
+  position: absolute;
+  top: 450px;
+  left: 1050px;
+  background-color: var(--Very-Dark-Grayish-Blue);
+  /* width: 300px; */
+  padding: 12px 32px;
+  /* gap: 20px; */
+  border-radius: 8px;
+  align-items: center;
+  transition: ease-in-out;
+}
+
+.active {
+  visibility: visible;
+}
+
+.snsShare span {
+  color: var(--Grayish-Blue);
+  letter-spacing: 5px;
+  margin-right: 10px;
+}
+
+.snsShare ul {
+  display: flex;
+  /* justify-content: flex-end; */
+  align-items: center;
+}
+
+.snsShare li {
+  /* margin-left: 20px; */
+}
+
+.snsShare img {
+  padding: 10px;
 }
