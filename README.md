@@ -17,6 +17,7 @@ Frontend Mentor의 [challenges](https://www.frontendmentor.io/challenges)에 대
 - 20230223 ~ 20230225 : [nft preview card component](https://github.com/eunjikimdev/frontend-mentor-challenges/tree/main/nft-preview-card-component)
 - 20230226 ~ 20230226 : [product preview card component](https://github.com/eunjikimdev/frontend-mentor-challenges/tree/main/product-preview-card-component)
 - 20230418 ~ 20230419 : [profile-card-component-main](https://github.com/eunjikimdev/frontend-mentor-challenges/tree/main/profile-card-component-main)
+- 20230419~20230729 : [article-preview-component](https://github.com/eunjikimdev/frontend-mentor-challenges/tree/main/article-preview-component)
 
 ### 2단계
 
